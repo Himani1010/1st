@@ -11,7 +11,7 @@ function playGame(question, answer){
     if(userAns===answer) {
       console.log(chalk.green("Right !!!!"))
       score++
-      console.log("you scored", score)
+      console.log("My  scored is now", score)
     }
     else{
       console.log(chalk.red(" Oppps........Wrong !"))
