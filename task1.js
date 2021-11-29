@@ -16,7 +16,7 @@ function playGame(question, answer){
     else{
       console.log(chalk.red(" Oppps........Wrong !"))
     }
-  console.log("--------------")
+  console.log("Correct")
   
 } 
 var questions=[{Que: "Where do i live? ", Ans: "Nainital"}, 
